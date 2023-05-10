@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [M1.5_A2L1.SchDoc]
+   Generated File[Bill of Materials-M1.5_A2L1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:32:53 On 24/11/2022

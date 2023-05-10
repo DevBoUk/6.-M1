@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: F:\_amy_projects\_my_prj\6. M1 - GAM\0. Design\1. Project\1. M1.5_A2L1\M1.7_A2L1_32mm.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
